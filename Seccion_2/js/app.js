@@ -2,29 +2,29 @@
 
 // Primitivos.
 
-let nombre = 'Peter Parker';
-console.log(nombre);
+//let nombre = 'Peter Parker';
+//console.log(nombre);
 
-nombre = 'Ben Parker';
-console.log(nombre);
+//nombre = 'Ben Parker';
+//console.log(nombre);
 
-console.log(typeof nombre);
+//console.log(typeof nombre);
 
-let esMarvel = false;
-console.log(typeof esMarvel);
+//let esMarvel = false;
+//console.log(typeof esMarvel);
 
-let edad = 33;
-console.log(typeof edad);
+//let edad = 33;
+//console.log(typeof edad);
 
-edad = 33.001;
-console.log(typeof edad);
+//edad = 33.001;
+//console.log(typeof edad);
 
-let superPoder;
-console.log(typeof superPoder);
+//let superPoder;
+//console.log(typeof superPoder);
 
-let soyNull = null;
-console.log(typeof soyNull);
+//let soyNull = null;
+//console.log(typeof soyNull);
 
-let symbol1 = Symbol('a');
-let symbol2 = Symbol('a');
-console.log(typeof symbol1);
+//let symbol1 = Symbol('a');
+//let symbol2 = Symbol('a');
+//console.log(typeof symbol1);

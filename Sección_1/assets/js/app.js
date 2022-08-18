@@ -1,4 +1,4 @@
-'use strict';
+///'use strict';
 
 //alert('Hola mundo');
 //let respuesta = prompt('¿Cual es tu nombre?');
@@ -8,4 +8,4 @@
 //const seleccion = confirm('¿Está seguro?');
 //console.log(seleccion);
 
-console.log (global);
+//console.log (global);
