@@ -25,3 +25,9 @@ const saludarFlecha2 = (nombre) => {console.log('Hola ' + nombre)}
  }
  const sumar2 = (a, b) => {}
  console.log(sumar(1,2))
+
+ function getAleatorio() {
+    return Math.random();
+ }
+ const getAleatorio2 = () => Math.random();
+ console.log(getAleatorio2());
